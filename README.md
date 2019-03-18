@@ -1,1 +1,3 @@
 # chain-data
+
+Please click on "releases" and use the read me for directions...
